@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi there , I'm Andrew  👋
 
 <!--
 **andrewishak/andrewishak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+<p align="center">
+    <a href="https://www.linkedin.com/in/andrew-ishaq-74a640112/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  </p>
+  
+<!--
+I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
+
 
 Here are some ideas to get you started:
 
